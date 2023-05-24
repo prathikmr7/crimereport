@@ -75,7 +75,7 @@ hr {
  		<div class="col-lg-12">
  			<div class="content">
  				<h1>Have a Complaint?</h1>
- 				<h3>Register a Complaint here &nbsp &nbsp<i class="fa fa-hand-o-down" aria-hidden="true"></i></h3>
+ 				<h3>Register a Complaint in this website &nbsp &nbsp<i class="fa fa-hand-o-down" aria-hidden="true"></i></h3>
  				<hr>
           <a href="registration.php" class="btn btn-default btn-lg" role="button" aria-pressed="true">Sign Up!</a>
  			</div>
